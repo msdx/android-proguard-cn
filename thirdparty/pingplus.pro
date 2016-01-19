@@ -1,4 +1,4 @@
-#ping++Ö§¸¶  Î´°üº¬°Ù¶ÈÇ®°ü
+ï»¿#ping++æ”¯ä»˜  æœªåŒ…å«ç™¾åº¦é’±åŒ…
 -dontwarn com.alipay.**
 -keep class com.alipay.** {*;}
 
