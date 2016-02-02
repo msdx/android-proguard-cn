@@ -1,3 +1,2 @@
-# 银联 3.0.0
--dontwarn com.unionpay.**
--keep class com.unionpay.** { *; }
+# 银联 3.0.0 
+#此版本只有一个UPPayAssistEx类，采用安装插件的方式，故不需要添加规则
