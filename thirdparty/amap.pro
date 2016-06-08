@@ -1,4 +1,9 @@
 #### 高德相关依赖
+#集合包:3D地图3.3.2 导航1.8.0 定位2.5.0
+-dontwarn com.amap.api.**
+-dontwarn com.autonavi.**
+-keep class com.amap.api.**{*;}
+-keep class com.autonavi.**{*;}
 
 #地图服务 2.4.0
 -dontwarn com.amap.api.services.**
