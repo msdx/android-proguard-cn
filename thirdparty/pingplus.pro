@@ -1,4 +1,4 @@
-﻿#ping++支付  未包含百度钱包
+#ping++支付  未包含百度钱包
 -dontwarn com.alipay.**
 -keep class com.alipay.** {*;}
 
