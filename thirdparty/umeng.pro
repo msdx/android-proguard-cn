@@ -5,6 +5,7 @@
 -keep class com.umeng.** { *; }
 
 ##友盟统计分析 5.5.3
+-dontwarn u.aly.**
 -keepclassmembers class * { public <init>(org.json.JSONObject); }
 -keepclassmembers enum com.umeng.analytics.** {
     public static **[] values();
